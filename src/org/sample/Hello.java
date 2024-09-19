@@ -7,6 +7,8 @@ public class Hello {
 		
 		System.out.println("ADDED THE CODE!");
 		
+		System.out.println("ALTHAF ADDED THE CODE!");
+		
 	}
 
 }
